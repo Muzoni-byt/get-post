@@ -8,6 +8,12 @@ Get function- *data is opened to url
               * Get requests ca be cached
               *Better for search pace
               <br>
+
+
+
+
+
+      
 Post fuction- *Data is packaged inside thebody of the http request.
               *More secured
               *No data limit
