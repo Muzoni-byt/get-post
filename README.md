@@ -1,5 +1,6 @@
 <html>
   <body>
+    <p>
 Get function- *data is opened to url
               *Not secure
               *Character limit
@@ -13,5 +14,6 @@ Post fuction- *Data is packaged inside thebody of the http request.
               *Connot bookmark.
               *Get request are not cached
               *Better for submmiting credentials
+    </p>
   </body>
 </html>
